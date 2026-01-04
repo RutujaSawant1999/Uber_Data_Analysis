@@ -4,6 +4,7 @@
 The objective of this project is to analyze Uber ride data to understand customer travel patterns, ride purposes, peak booking times, and distance trends. The goal is to extract actionable insights that can help improve demand forecasting, operational efficiency, and business decision-making.
 
 
+
 🧹 Data Cleaning & Preprocessing
 
 The following data cleaning and preprocessing steps were performed:
@@ -19,6 +20,7 @@ Extracted new features such as day, month, weekday, and hour from timestamps
 Standardized categorical values for consistency
 
 Filtered and validated trip distance values for reliable analysis
+
 
 
 📁 Dataset Information
@@ -42,6 +44,7 @@ The dataset is structured and suitable for time-based and category-based analysi
 Data represents real-world ride usage patterns across different time periods
 
 
+
 🛠 Tools & Technologies Used
 
 Python
@@ -51,6 +54,7 @@ Pandas & NumPy – Data manipulation and preprocessing
 Matplotlib & Seaborn – Data visualization
 
 Jupyter Notebook – Analysis and presentation
+
 
 
 📌 Conclusions
@@ -66,6 +70,7 @@ Friday is the busiest day of the week
 Most trips are short-distance, typically within 0–20 miles
 
 Lower ride frequency observed during January, November, and December
+
 
 
 🔮 Future Prediction & Scope
